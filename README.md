@@ -1,4 +1,5 @@
 # QuadAxe
+ ![QuadAxe](https://github.com/BeeEvolved/QuadAxe/blob/main/QuadAxe.jpg)
  The QuadAxe serves the purpose of housing open-source Bitaxe Bitcoin miners within old, obsolete, recycled Antminer S9 chassis. 
  # Four Bitaxe
  ![FourBitaxe](https://github.com/BeeEvolved/QuadAxe/blob/main/FourBitaxe.jpg)
