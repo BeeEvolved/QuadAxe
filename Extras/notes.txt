@@ -1,0 +1,8 @@
+-QuadAxeStencil.stl
+QuadAxeStencil.stl is a stencil so you can make your QuadAxe look awesome.
+
+-QuadAxeKnockout.stl
+-QuadAxeKnockout.stl is a knockout to cover the slot that the old S9 hashboard used to occupy.
+
+-QuadAxeCableKnockout.stl
+QuadAxeCableKnockout.stl is a similar knockout but has slots for your cables going to your Bitaxes. Aluminum can be sharp. This knockout can protect your cables going into your Quadaxe.
